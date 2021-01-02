@@ -1,0 +1,48 @@
+.container {
+  margin-bottom: 1em;
+}
+
+.accordion .card {
+  border: none;
+  margin-bottom: 10px;
+}
+
+.accordion .card-header {
+  background: #2f8c46;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.accordion .card-header:hover {
+  background: #fff;
+}
+
+.accordion .card-header h2 {
+  color: #fff;
+  font-size: 20px;
+  font-family: gidole;
+  font-weight: 700;
+}
+
+.accordion .card-header h2 span {
+  float: left;
+  margin-top: 10px;
+  color: black;
+}
+
+.accordion .card-header button {
+  color: #fff;
+  font-size: 1.3rem;
+  line-height: 1.3rem;
+  float: right;
+}
+
+.accordion .card-header button:hover {
+  color: #23384e;
+}
+
+.accordion .card-body{
+
+  font-size: 15px;
+  font-weight: 500;
+}
