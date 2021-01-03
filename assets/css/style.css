@@ -523,7 +523,7 @@ MAIN TIMELINE .main-timeline {
     border-radius: 25px;
     display: block;
     text-decoration: none;
-    box-shadow: 0 0 10px rgba(255, 255, 200, 0.4);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
     -moz-box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
     -webkit-box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
     -o-box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
